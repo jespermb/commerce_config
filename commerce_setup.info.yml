@@ -1,0 +1,5 @@
+name: Commerce config
+type: module
+description: Provides a default setup for commerce.
+core: 8.x
+package: Commerce extra

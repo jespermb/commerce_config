@@ -1,0 +1,10 @@
+uuid: 57e4f471-065d-4c77-be12-9a1e00bf5549
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: p7KjGrZ-UDAp74XD8S8VDcKJ9yK4srO2d_5nCESJyZo
+id: default
+label: Default
+orderItemType: product_variation
+generateTitle: true

@@ -1,0 +1,7 @@
+uuid: 545a578c-0672-4213-8600-4b13c2d96a27
+langcode: en
+status: true
+dependencies: {  }
+id: web_store
+label: 'Web store'
+description: ''
