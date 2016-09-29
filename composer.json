@@ -3,7 +3,6 @@
     "description": "This module provides a default setup for a commerce installation.",
     "type": "drupal-module",
     "require": {
-        "drupal/commerce": "dev",
         "drupal/core": "dev"
     },
     "minimum-stability": "dev"
