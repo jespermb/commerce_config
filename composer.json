@@ -2,8 +2,6 @@
     "name": "adapt/commerce_setup",
     "description": "This module provides a default setup for a commerce installation.",
     "type": "drupal-module",
-    "require": {
-        "drupal/core": "dev"
-    },
+    "require": {},
     "minimum-stability": "dev"
 }
